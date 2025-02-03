@@ -1,0 +1,2 @@
+# EcomDataFlow-E-Commerce-Data-Intelligence-Platform
+EcomDataFlow is an advanced data management and analytics solution designed to transform raw e-commerce data into actionable business insights. By leveraging cutting-edge technologies like Talend, SQL Server, and Power BI, this platform provides a robust end-to-end data pipeline that enhances operational efficiency and strategic decision-making.
